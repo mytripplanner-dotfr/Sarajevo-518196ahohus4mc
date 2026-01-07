@@ -1,0 +1,137 @@
+{
+  "pays": "Bosnie-Herzégovine",
+  "drapeau": "🇧🇦",
+  "symbole": "🕌",
+  "titre": "Escapade relaxante à Sarajevo : Perle des Balkans",
+  "budget_total": "Environ 550-650 €/personne",
+  "duree": "2 jours",
+  "temps_vol": "4h20 (avec escale depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la vieille ville",
+      "legende": "Après un vol tranquille, plongez directement dans l'atmosphère unique de Baščaršija, le cœur historique de Sarajevo. Laissez-vous charmer par ses ruelles pavées et ses échoppes artisanales pour une première approche douce de la ville, avant de savourer un café bosnien traditionnel.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Sarajevo</strong>: Atterrissage et transfert vers le centre-ville pour débuter votre aventure.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Détendez-vous et déposez vos bagages pour commencer l'exploration en toute légèreté.",
+        "🚶‍♂️ <strong>Balade relaxante à Baščaršija</strong>: Flânez dans le quartier ottoman, admirez la fontaine Sebilj et imprégnez-vous de l'ambiance des bazars.",
+        "☕ <strong>Pause café bosnien</strong>: Savourez un café traditionnel dans l'un des nombreux cafés pittoresques de la vieille ville, un véritable rituel local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport international de Sarajevo, Sarajevo",
+          "categorie": "Aéroport",
+          "coords": { "lat": 43.8246, "lng": 18.3314 }
+        },
+        {
+          "nom_recherche": "Baščaršija, Sarajevo",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 43.8594, "lng": 18.4310 }
+        },
+        {
+          "nom_recherche": "Fontaine Sebilj, Sarajevo",
+          "categorie": "Monument",
+          "coords": { "lat": 43.8597, "lng": 18.4310 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil transport",
+          "texte": "Un bus relie l'aéroport au centre-ville (Baščaršija) en environ 30 minutes. Les taxis sont aussi une option pratique et abordable."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Panoramas, histoire et détente thermale",
+      "legende": "Commencez la journée par des vues imprenables sur Sarajevo depuis la Forteresse Jaune, puis plongez dans l'histoire au Pont Latin. L'après-midi sera dédiée à la relaxation aux sources thermales d'Ilidža, pour un équilibre parfait entre culture et bien-être avant votre départ.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "🌅 <strong>Lever de soleil et vue depuis la Forteresse Jaune</strong>: Profitez d'un panorama exceptionnel sur la ville et ses toits rouges, idéal pour des photos mémorables.",
+        "🌉 <strong>Visite du Pont Latin</strong>: Découvrez ce pont historique, témoin de l'assassinat de l'Archiduc François-Ferdinand, événement déclencheur de la Première Guerre mondiale.",
+        "🌳 <strong>Promenade le long de la rivière Miljacka</strong>: Une balade paisible pour admirer l'architecture et l'ambiance de la ville, loin de l'agitation.",
+        "♨️ <strong>Détente aux thermes d'Ilidža</strong>: Offrez-vous un moment de relaxation dans les eaux curatives de cette station thermale historique, un havre de paix."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Forteresse Jaune, Sarajevo",
+          "categorie": "Site historique",
+          "coords": { "lat": 43.8608, "lng": 18.4370 }
+        },
+        {
+          "nom_recherche": "Pont Latin, Sarajevo",
+          "categorie": "Monument historique",
+          "coords": { "lat": 43.8584, "lng": 18.4287 }
+        },
+        {
+          "nom_recherche": "Thermes d'Ilidža, Sarajevo",
+          "categorie": "Station thermale",
+          "coords": { "lat": 43.8300, "lng": 18.3000 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès à Ilidža",
+          "texte": "Ilidža est facilement accessible en tramway depuis le centre de Sarajevo, offrant un trajet pittoresque et économique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 304 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 20 €/pers", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 100 €/pers", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 100 €/pers (1 nuit en 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 20 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Septembre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Mark convertible (BAM). 1 EUR ≈ 1.95 BAM. Les cartes sont acceptées, mais ayez du liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Sarajevo est une ville sûre, mais restez vigilant comme dans toute grande ville. Les habitants sont très accueillants et chaleureux.", "symbole": "🤝" },
+    { "titre": "Le bosnien est la langue officielle. L'anglais est parlé dans les zones touristiques, mais quelques mots de bosnien seront appréciés.", "symbole": "🗣️" },
+    { "titre": "Le réseau de tramway est efficace pour se déplacer dans la ville. Les taxis sont abordables et facilement disponibles.", "symbole": "🚊" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Sarajevo est surnommée la \"Jérusalem de l'Europe\" en raison de la coexistence pacifique de quatre grandes religions (catholicisme, orthodoxie, islam et judaïsme) sur un petit territoire." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "Le tramway de Sarajevo est l'un des plus anciens d'Europe, mis en service en 1885. Il était d'abord tiré par des chevaux avant d'être électrifié !" 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Cevapi", 
+      "description": "Petites saucisses de viande hachée grillées, servies dans un pain plat (somun) avec des oignons et de la crème fraîche (kajmak). Un incontournable !" 
+    },
+    { 
+      "symbole": "🍲", 
+      "titre": "Burek", 
+      "description": "Pâtisserie salée feuilletée, souvent garnie de viande hachée, de fromage ou d'épinards. Parfait pour un repas rapide et savoureux à toute heure." 
+    },
+    { 
+      "symbole": "☕", 
+      "titre": "Kahva (Café bosnien)", 
+      "description": "Un rituel social, servi dans une petite tasse en cuivre (džezva) avec un morceau de loukoum. Plus qu'une boisson, c'est une expérience culturelle." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-SJJ/2026-05-13/2026-05-15", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Bosnie-Herzégovine", "url": "https://www.bhtourism.ba/eng/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Sarajevo", "url": "https://www.accuweather.com/fr/ba/sarajevo/300439/weather-forecast/300439", "symbole": "🌤️" },
+    { "legende": "Transports en commun Sarajevo", "titre": "GRAS Sarajevo (Tram/Bus)", "url": "https://gras.ba/", "symbole": "🚊" }
+  ]
+}
